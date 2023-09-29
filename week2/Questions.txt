@@ -1,1 +1,13 @@
 will be added here on 2 day before Sunday.
+
+patterns problems are also there but not submitting the codes, i hope some one will add
+
+folder -> recursion
+1. factorial of a number
+2. Nth fibonacchi number
+3. palindrome check
+4. reverse an array
+5. sum of n natural numbers
+
+hashing 
+1. hasing for checking the occurence of any number or character in string 
