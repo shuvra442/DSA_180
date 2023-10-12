@@ -1,5 +1,1 @@
-On Sunday it will bw added
-
-1. loops 
-2. recursion
-3. hashing
+Sorting algorithms.

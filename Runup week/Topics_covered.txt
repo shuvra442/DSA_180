@@ -1,0 +1,5 @@
+Basics of programming language
+data types
+loops
+if else
+functions
