@@ -3,7 +3,7 @@ saniyaj = [0]
 sombhu = [0]
 pritam = [0]
 sajed = [0]
-shuvra = [0,9]
+shuvra = [0]
 rajat = [0]
 
 # Create a dictionary to store the names and their corresponding lists

@@ -1,13 +1,13 @@
-will be added here on 2 day before Sunday.
 
-patterns problems are also there but not submitting the codes, i hope some one will add
+sorting |
 
-folder -> recursion
-1. factorial of a number
-2. Nth fibonacchi number
-3. palindrome check
-4. reverse an array
-5. sum of n natural numbers
+1. Selection sort
+2. insertion sort
+3. bubble sort
 
-hashing 
-1. hasing for checking the occurence of any number or character in string 
+sorting ||
+
+1. quick sort
+2. insertion sort using recursion
+3. bubble sort using recursion
+4. merge sort

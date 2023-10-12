@@ -1,5 +1,5 @@
-Basics of programming language
-data types
-loops
-if else
-functions
+On Sunday it will bw added
+
+1. loops 
+2. recursion
+3. hashing
